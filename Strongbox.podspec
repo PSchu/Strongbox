@@ -28,7 +28,7 @@ s.summary          = 'Strongbox is a Swift utility class for storing data secure
   s.source           = { :git => 'https://github.com/granoff/Strongbox.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/granoff'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.watchos.deployment_target = '3.0'
 
   s.source_files = 'Strongbox/Classes/**/*'
